@@ -9,7 +9,8 @@ This adapter is designed to connect an OpenTherm compatible boiler to any TTL po
 Same size as popular RS485-TTL module for more compatibility.  
 
 As software part you can use:
-- [Tasmota OpenTherm](https://tasmota.github.io/docs/OpenTherm/) - perhaps the easiest way to connect the boiler to your smart home system 🏚
+- [OpenTherm gateway for HomeAssistant](https://github.com/Laxilef/OTGateway) - very intelligent OT control firmware 🧠  
+- [Tasmota OpenTherm](https://tasmota.github.io/docs/OpenTherm/) - perhaps the easiest way to connect the boiler to your smart home system 🏚  
 - [Opentherm IO library for Arduino](https://github.com/jpraus/arduino-opentherm) or [OpenTherm Arduino/ESP8266 Library](https://github.com/ihormelnyk/opentherm_library/) (slave mode only)  
   *if you want to build your own firmware* 🛠
 
@@ -33,7 +34,7 @@ As software part you can use:
 ![Schematic](./images/Schematic.png)
 
 ### Where to buy?
-<a href="https://mind.in.ua/"><img src="https://static.tildacdn.com/tild3433-3934-4565-b362-386238366331/logo_full.png" alt="Go to mind.in.ua" height="120"></a>
+<a href="https://mind.in.ua/tproduct/358465119-512700932531-adapter-opentherm-ttl"><img src="https://static.tildacdn.com/tild3433-3934-4565-b362-386238366331/logo_full.png" alt="Go to mind.in.ua" height="120"></a>
 
 ### DIY
 - [iBOM page](./files/iBOM.html) 🌍
