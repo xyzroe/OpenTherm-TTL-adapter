@@ -16,22 +16,22 @@ As software part you can use:
 
 ### Overview
 <div align="center">
-<img width="30%" src="./images/top.png">
-<img width="30%" src="./images/bottom.png">
+<img width="30%" src="https://raw.githubusercontent.com/xyzroe/OpenTherm-TTL-adapter/master/images/top.png">
+<img width="30%" src="https://raw.githubusercontent.com/xyzroe/OpenTherm-TTL-adapter/master/images/bottom.png">
 </div>
 
 ### Photos
 <div align="center">
-<img width="70%" src="./images/1.jpeg">
-<img width="70%" src="./images/2.jpeg">
+<img width="70%" src="https://raw.githubusercontent.com/xyzroe/OpenTherm-TTL-adapter/master/images/1.jpeg">
+<img width="70%" src="https://raw.githubusercontent.com/xyzroe/OpenTherm-TTL-adapter/master/images/2.jpeg">
 </div>
 <div align="center">
-<img width="70%" src="./images/3.jpeg">
-<img width="70%" src="./images/4.jpeg">
+<img width="70%" src="https://raw.githubusercontent.com/xyzroe/OpenTherm-TTL-adapter/master/images/3.jpeg">
+<img width="70%" src="https://raw.githubusercontent.com/xyzroe/OpenTherm-TTL-adapter/master/images/4.jpeg">
 </div>
 
 ### Schematic
-![Schematic](./images/Schematic.png)
+![Schematic](https://raw.githubusercontent.com/xyzroe/OpenTherm-TTL-adapter/master/images/Schematic.png)
 
 ### Where to buy?
 <a href="https://mind.in.ua/tproduct/358465119-512700932531-adapter-opentherm-ttl"><img src="https://static.tildacdn.com/tild3433-3934-4565-b362-386238366331/logo_full.png" alt="Go to mind.in.ua" height="120"></a>
