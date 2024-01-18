@@ -15,18 +15,18 @@ As software part you can use:
 
 ### Overview
 <div align="center">
-<img width="40%" src="./images/top.png">
-<img width="40%" src="./images/bottom.png">
+<img width="30%" src="./images/top.png">
+<img width="30%" src="./images/bottom.png">
 </div>
 
 ### Photos
 <div align="center">
-<img width="40%" src="./images/1.jpeg">
-<img width="40%" src="./images/2.jpeg">
+<img width="70%" src="./images/1.jpeg">
+<img width="70%" src="./images/2.jpeg">
 </div>
 <div align="center">
-<img width="40%" src="./images/3.jpeg">
-<img width="40%" src="./images/4.jpeg">
+<img width="70%" src="./images/3.jpeg">
+<img width="70%" src="./images/4.jpeg">
 </div>
 
 ### Schematic
