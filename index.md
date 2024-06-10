@@ -43,7 +43,9 @@ As software part you can use:
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
 
 ### Like ♥️?
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/xyzroe)
+[![badges](https://badges.aleen42.com/src/buymeacoffee.svg)](https://www.buymeacoffee.com/xyzroe) 
+[![badges](https://badges.aleen42.com/src/github.svg)](https://github.com/sponsors/xyzroe)
+[![badges](https://badges.aleen42.com/src/paypal.svg)](http://paypal.me/xyzroe) 
 
 ### Inspired by
 - [Laxilef - OpenTherm gateway for HomeAssistant](https://github.com/Laxilef/OTGateway)
